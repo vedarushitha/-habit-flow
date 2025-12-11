@@ -1,4 +1,4 @@
-# Habit Tracker Application
+# Habit flow Application
 
 A full-stack web application for tracking daily habits with streak counting and progress monitoring.
 
@@ -193,5 +193,6 @@ Developed as a Full-Stack Development (FSD) project.
 ---
 
 **Happy Habit Tracking! 📈**
+
 
 
